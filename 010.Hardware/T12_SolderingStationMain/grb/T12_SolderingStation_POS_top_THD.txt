@@ -1,0 +1,12 @@
+### Module positions - created on 2022-07-28 10:44
+### Printed by pcb_positions plugin
+## Unit = mm, Angle = deg.
+## Pcb Height 23.152mm, Pcb Width 80.152mm [based on Edge bounding box]
+## Side : top
+## Board Aux Origin: 0.000mm ,0.000mm
+# Ref         Val                 Package                       PosX       PosY       Pin1_PosX  Pin1_PosY    Rot     Side      Type
+J3            Conn_01x04_Male     PinHeader_1x04_P2.54mm_Vert.. 109.8296   -95.5040   109.8296   -95.5040     90.0    top       THD
+SW2           RotaryEncoder_2     EC10E                         125.7084   -87.3760   0.0000     0.0000       90.0    top       THD
+J4            Conn_01x05_Female   PhoenixContact_MC_1,5_5-G-3.. 146.3548   -94.2702   146.3548   -94.2702     90.0    top       THD
+J2            AVR-ISP-6           PinHeader_2x03_P2.54mm_Vert.. 116.3978   -80.7262   116.3978   -80.7262     90.0    top       THD
+## End

@@ -1,0 +1,21 @@
+### Module positions - created on 2022-07-28 10:44
+### Printed by pcb_positions plugin
+## Unit = mm, Angle = deg.
+## Pcb Height 23.152mm, Pcb Width 80.152mm [based on Edge bounding box]
+## Side : bottom
+## Board Aux Origin: 0.000mm ,0.000mm
+# Ref         Val                 Package                       PosX       PosY       Pin1_PosX  Pin1_PosY    Rot     Side      Type
+R12           100K                R_0402_1005Metric             121.2088   -96.5200   120.6988   -96.5200      0.0    bottom    SMD
+C9            1uF                 C_0603_1608Metric             87.9726    -87.2236   87.1976    -87.2236      0.0    bottom    SMD
+R2            NC                  R_0402_1005Metric             82.3976    -84.6856   82.3976    -84.1756    -90.0    bottom    SMD
+R1            6.8K                R_0402_1005Metric             83.4136    -84.6836   83.4136    -84.1736    -90.0    bottom    SMD
+R10           5.1K                R_0402_1005Metric             88.0364    -90.1700   88.0364    -89.6600    -90.0    bottom    SMD
+U3            ATmega328P-A        TQFP-32_7x7mm_P0.8mm          115.3568   -88.2396   111.1068   -91.0396      0.0    bottom    SMD
+R13           20K                 R_0402_1005Metric             123.1412   -96.5200   122.6312   -96.5200      0.0    bottom    SMD
+R9            5.1K                R_0402_1005Metric             88.0364    -85.3948   88.0364    -85.9048     90.0    bottom    SMD
+D3            BZV55B5V1           D_MiniMELF                    122.1740   -94.7928   120.4240   -94.7928      0.0    bottom    SMD
+R14           10K                 R_0402_1005Metric             142.9512   -87.1728   142.4412   -87.1728      0.0    bottom    SMD
+C10           100nF               C_0603_1608Metric             122.0116   -88.1888   122.0116   -87.4138    -90.0    bottom    SMD
+U2            CH224D              QFN-20-1EP_3x3mm_P0.4mm_EP1.. 84.1792    -87.6336   83.3792    -86.1836    -90.0    bottom    SMD
+Y1            16mHz               Resonator_SMD_Murata_CSTxEx.. 109.4932   -79.5528   110.6932   -79.5528    180.0    bottom    SMD
+## End

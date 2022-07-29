@@ -1,0 +1,68 @@
+### Module positions - created on 2022-07-28 10:44
+### Printed by pcb_positions plugin
+## Unit = mm, Angle = deg.
+## Pcb Height 23.152mm, Pcb Width 80.152mm [based on Edge bounding box]
+## Side : ALL
+## Board Aux Origin: 0.000mm ,0.000mm
+# Ref         Val                 Package                       PosX       PosY       Pin1_PosX  Pin1_PosY    Rot     Side      Type
+R6            20K                 R_0402_1005Metric             101.4724   -80.5688   100.9624   -80.5688      0.0    top       SMD
+C6            50V/220pF           C_0402_1005Metric             99.9972    -82.0928   99.9972    -82.5728     90.0    top       SMD
+R3            100K                R_0402_1005Metric             101.4984   -83.5660   102.0084   -83.5660    180.0    top       SMD
+U4            OPA2333xxD          SOIC-8_3.9x4.9mm_P1.27mm      132.4356   -84.1756   130.5306   -86.6506     90.0    top       SMD
+L1            L                   L_7.3x7.3_H4.5                95.5548    -91.8972   95.5548    -88.6972    -90.0    top       SMD
+J3            Conn_01x04_Male     PinHeader_1x04_P2.54mm_Vert.. 109.8296   -95.5040   109.8296   -95.5040     90.0    top       THD
+SW2           RotaryEncoder_2     EC10E                         125.7084   -87.3760   0.0000     0.0000       90.0    top       THD
+C8            10uF                C_0805_2012Metric             90.2716    -86.5632   90.2716    -85.6132    -90.0    top       SMD
+C1            50V/100nF           C_0603_1608Metric             95.3516    -86.4746   96.1266    -86.4746    180.0    top       SMD
+C7            NC                  C_0402_1005Metric             101.4704   -82.5500   100.9904   -82.5500      0.0    top       SMD
+C3            50V/100nF           C_0603_1608Metric             105.0036   -90.4748   104.2286   -90.4748      0.0    top       SMD
+R8            68.1K               R_0402_1005Metric             101.4704   -81.5340   100.9604   -81.5340      0.0    top       SMD
+D4            1N4148W             D_SOD-123                     134.5692   -91.1860   136.2192   -91.1860    180.0    top       SMD
+C11           100nF               C_0603_1608Metric             109.4232   -88.3034   108.6482   -88.3034      0.0    top       SMD
+C15           2.2nF               C_0603_1608Metric             133.7056   -89.2556   132.9306   -89.2556      0.0    top       SMD
+R19           200K                R_0402_1005Metric             131.6736   -91.2368   131.6736   -91.7468     90.0    top       SMD
+R18           200k                R_0402_1005Metric             131.1656   -89.0524   131.6756   -89.0524    180.0    top       SMD
+R17           10K                 R_0402_1005Metric             134.1120   -78.5368   134.6220   -78.5368    180.0    top       SMD
+R5            10K                 R_0402_1005Metric             83.0580    -77.6224   83.5680    -77.6224    180.0    top       SMD
+C4            50V/10uF            CP_Elec_5x5.7                 86.8680    -79.1972   89.0680    -79.1972    180.0    top       SMD
+R15           10K                 R_0402_1005Metric             132.1816   -78.5368   132.6916   -78.5368    180.0    top       SMD
+C14           1uF                 C_0603_1608Metric             135.4328   -93.1164   134.6578   -93.1164      0.0    top       SMD
+J1            USB_C_Receptacle_.. USB_C_Receptacle_Palconn_UT.. 85.5078    -87.7316   0.0000     0.0000      -90.0    top       SMD
+J4            Conn_01x05_Female   PhoenixContact_MC_1,5_5-G-3.. 146.3548   -94.2702   146.3548   -94.2702     90.0    top       THD
+R16           10K                 R_0402_1005Metric             132.9436   -93.1164   133.4536   -93.1164    180.0    top       SMD
+SW1           SW_DPST_Temperature SW_SPST_Omron_B3FS-100xP      140.5636   -87.2744   138.3136   -91.2744     90.0    top       SMD
+U1            MP1584EN            SOIC-8-1EP_3.9x4.9mm_P1.27m.. 95.2500    -82.9186   97.7250    -84.8236    180.0    top       SMD
+R11           10K                 R_0402_1005Metric             142.1384   -81.2292   141.6284   -81.2292      0.0    top       SMD
+D2            GREEN               LED_0402_1005Metric           82.2452    -79.5369   82.2452    -80.0219     90.0    top       SMD
+J2            AVR-ISP-6           PinHeader_2x03_P2.54mm_Vert.. 116.3978   -80.7262   116.3978   -80.7262     90.0    top       THD
+C2            10V/22uF            CP_Elec_5x5.7                 103.7844   -94.2340   101.5844   -94.2340      0.0    top       SMD
+R7            200K                R_0402_1005Metric             90.8812    -81.5978   90.8812    -82.1078     90.0    top       SMD
+R4            20K                 R_0402_1005Metric             101.4704   -79.5528   101.9804   -79.5528    180.0    top       SMD
+C13           100nF               C_0603_1608Metric             136.2456   -84.1756   136.2456   -83.4006    -90.0    top       SMD
+D1            SS54                D_SMA                         101.2444   -87.6808   101.2444   -89.6808     90.0    top       SMD
+C5            50V/100nF           C_0402_1005Metric             94.3864    -78.6892   94.3864    -79.1692     90.0    top       SMD
+R12           100K                R_0402_1005Metric             121.2088   -96.5200   120.6988   -96.5200      0.0    bottom    SMD
+C9            1uF                 C_0603_1608Metric             87.9726    -87.2236   87.1976    -87.2236      0.0    bottom    SMD
+R2            NC                  R_0402_1005Metric             82.3976    -84.6856   82.3976    -84.1756    -90.0    bottom    SMD
+R1            6.8K                R_0402_1005Metric             83.4136    -84.6836   83.4136    -84.1736    -90.0    bottom    SMD
+R10           5.1K                R_0402_1005Metric             88.0364    -90.1700   88.0364    -89.6600    -90.0    bottom    SMD
+U3            ATmega328P-A        TQFP-32_7x7mm_P0.8mm          115.3568   -88.2396   111.1068   -91.0396      0.0    bottom    SMD
+JP2           JUMP                SolderJumper-2_P1.3mm_Open_.. 84.7852    -94.7558   84.7852    -95.4808     90.0    bottom    VIRTUAL
+R13           20K                 R_0402_1005Metric             123.1412   -96.5200   122.6312   -96.5200      0.0    bottom    SMD
+R9            5.1K                R_0402_1005Metric             88.0364    -85.3948   88.0364    -85.9048     90.0    bottom    SMD
+D3            BZV55B5V1           D_MiniMELF                    122.1740   -94.7928   120.4240   -94.7928      0.0    bottom    SMD
+R14           10K                 R_0402_1005Metric             142.9512   -87.1728   142.4412   -87.1728      0.0    bottom    SMD
+C10           100nF               C_0603_1608Metric             122.0116   -88.1888   122.0116   -87.4138    -90.0    bottom    SMD
+U2            CH224D              QFN-20-1EP_3x3mm_P0.4mm_EP1.. 84.1792    -87.6336   83.3792    -86.1836    -90.0    bottom    SMD
+JP1           JUMP                SolderJumper-2_P1.3mm_Open_.. 87.3760    -94.7420   87.3760    -94.0170    -90.0    bottom    VIRTUAL
+Y1            16mHz               Resonator_SMD_Murata_CSTxEx.. 109.4932   -79.5528   110.6932   -79.5528    180.0    bottom    SMD
+## End
+## 195 SMD pads
+## 20 TH pads
+## 4 Virtual pads
+## 4 Top TH modules
+## 0 Bot TH modules
+## 32 Top SMD modules
+## 13 Bot SMD modules
+## 0 Top Virtual modules
+## 2 Bot Virtual modules
