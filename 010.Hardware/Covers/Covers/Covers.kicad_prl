@@ -1,8 +1,8 @@
 {
   "board": {
-    "active_layer": 37,
+    "active_layer": 44,
     "active_layer_preset": "",
-    "auto_track_width": false,
+    "auto_track_width": true,
     "hidden_nets": [],
     "high_contrast_mode": 0,
     "net_color_mode": 1,
@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffcfeff_ffffffff",
+    "visible_layers": "fffff3f_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "T12_SolderingStation.kicad_prl",
+    "filename": "Covers.kicad_prl",
     "version": 3
   },
   "project": {
